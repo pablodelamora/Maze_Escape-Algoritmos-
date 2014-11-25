@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 652bba0b1e86b4e6b9cde526dba82947
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#
+    100004: Component0
+    100006: Component1
+    100008: Component2
+    100010: Group001
+    100012: Group_002
+    100014: Group_003
+    100016: Group_004
+    100018: Internati0
+    100020: Internati1
+    100022: Internati2
+    100024: Internatio
+    100026: SCHOOL BU0
+    100028: SCHOOL BUS
+    100030: ske469_001
+    100032: STOP_001
+    400000: //RootNode
+    400002: Component#
+    400004: Component0
+    400006: Component1
+    400008: Component2
+    400010: Group001
+    400012: Group_002
+    400014: Group_003
+    400016: Group_004
+    400018: Internati0
+    400020: Internati1
+    400022: Internati2
+    400024: Internatio
+    400026: SCHOOL BU0
+    400028: SCHOOL BUS
+    400030: ske469_001
+    400032: STOP_001
+    2300000: Component#
+    2300002: Component0
+    2300004: Component1
+    2300006: Component2
+    2300008: Group_002
+    2300010: Group_003
+    2300012: Group_004
+    2300014: Internati0
+    2300016: Internatio
+    2300018: SCHOOL BU0
+    2300020: SCHOOL BUS
+    2300022: STOP_001
+    3300000: Component#
+    3300002: Component0
+    3300004: Component1
+    3300006: Component2
+    3300008: Group_002
+    3300010: Group_003
+    3300012: Group_004
+    3300014: Internati0
+    3300016: Internatio
+    3300018: SCHOOL BU0
+    3300020: SCHOOL BUS
+    3300022: STOP_001
+    4300000: Component#
+    4300002: Component0
+    4300004: Component1
+    4300006: Component2
+    4300008: Group_002
+    4300010: Group_003
+    4300012: Group_004
+    4300014: Internatio
+    4300016: Internati0
+    4300018: SCHOOL BUS
+    4300020: SCHOOL BU0
+    4300022: STOP_001
+    6400000: Component#
+    6400002: Component0
+    6400004: Component1
+    6400006: Component2
+    6400008: Group_002
+    6400010: Group_003
+    6400012: Group_004
+    6400014: Internati0
+    6400016: Internatio
+    6400018: SCHOOL BU0
+    6400020: SCHOOL BUS
+    6400022: STOP_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
